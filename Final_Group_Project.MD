@@ -31,29 +31,35 @@ We decided to call our project “Babylon”
 ## Goals:     
 
 
-1. Writing a smart contract:  Dhamya, Amal, Asma
-     1. Connecting to Meta Mask
-     2. Create a registerAccount Function
-     3. write a book price Function (set and get)
-     4. write create-a-book Function  
-     5. write a getBalance Function 
-     6. write a  withdraw Function
-     7. write a  transfer Function
-2. Developing the front end of the dApp:  Haneen, Khalid
-        index page:
-    1. header (logo+basket)
-    2. body (list of books to purchase)
-    3. custom css 
+1. Writing a smart contract:  Dhamya, Amal, Asma ,Zainab
+     1. Connecting to Meta Mask 
+     2. write create-a-book Function
+     3. write a BookInformation Function (set and get)
+     4. write BookAvailability
+
+     
+2. Writing a simple smart contract to connecting it to the dApp: G1 
+     1. write addToBlockchain Function 
+     2. write getAllTransactions Function
+     3. write getTransactionCount Function
+
+3. Developing the front end of the dApp:  Haneen, Khalid
+        
+    1. header (Navigation bar)
+    2. body (Welcome + Transactions + Loader + Services )
+    3. Footer
+    4. Custom css 
         
         
 
-3. Developing the back end of the dApp: Zainab, Dhamya, Asma
-    1. Connecting the smart contract with the dApp
-    2. Function to calculate the total price 
+4. Developing the back end of the dApp: Zainab, Dhamya, Asma
+    1. Connecting the simple smart contract with the dApp
+    2. Connecting the front end of the dApp with the back end of the dApp 
+     
         
 
 
-4. Presentation: Amal, Asma, Dhamya, Haneen, Khalid, Zainab 
+5. Presentation: Amal, Asma, Haneen  
     
     
 ---
